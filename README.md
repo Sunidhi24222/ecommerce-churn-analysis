@@ -4,7 +4,7 @@
 
 An end-to-end analysis of e-commerce customer churn: loading and cleaning raw data in PostgreSQL, answering business questions with SQL, and presenting the results in a 4-page Power BI report.
 
-> **Author:** Sunidhi Jangid | [LinkedIn](https://www.linkedin.com/in/sunidhi-jangid-625318297) | [Email(mailto:jangidsunidhi82@gmail.com)
+> **Author:** Sunidhi Jangid | [LinkedIn](https://www.linkedin.com/in/sunidhi-jangid-625318297) | [Email](mailto:jangidsunidhi82@gmail.com)
 
 ## Project Overview
 I created this project to analyze customer churn and find out why users stop using a service. I cleaned the dataset to fix missing values and summarized the key drivers behind revenue loss.
