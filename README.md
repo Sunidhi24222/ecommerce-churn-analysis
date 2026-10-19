@@ -119,16 +119,16 @@ Customer churn is expensive. About **$207M** of estimated revenue was lost in th
 | 4. Action Plan | What should the business do now? |
 
 ### Overview
-![Overview page](images/01_overview_page.png)
+![Overview page](ecommerce-churn-analysis/Images/01_overview_page.png)
 
 ### Churn Drivers
-![Churn Drivers page](images/02_churn_drivers_page.png)
+![Churn Drivers page](ecommerce-churn-analysis/Images/02_churn_drivers_page.png)
 
 ### Where Churn Happens
-![Where Churn Happens page](images/03_where_churn_happens_page.png)
+![Where Churn Happens page](ecommerce-churn-analysis/Images/03_where_churn_happens_page.png)
 
 ### Action Plan
-![Action Plan page](images/04_action_plan_page.png)
+![Action Plan page](ecommerce-churn-analysis/Images/04_action_plan_page.png)
 
 A PDF version of the report is in `powerbi/customer_churn_analysis.pdf`.
 
